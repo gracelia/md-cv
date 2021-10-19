@@ -2,8 +2,8 @@
 layout: cv
 title: Guanlin Li's CV
 ---
-# <span class="title">Guanlin Li</span>
-Senior Web Developer
+# <span class="title">李冠琳</span>
+有热情、有创造力的前端开发工程师
 
 <div id="webaddress">
 <a href="mailto:darlyn@foxmail.com">darlyn@foxmail.com</a>
@@ -12,52 +12,43 @@ Senior Web Developer
 </div>
 
 
-## Summary
+## 关于我
 
-I'm a __senior web developer__ served at both inland and overseas companys in __Artificial Intelligence (AI)__ and __Financial Risk Management__ areas for __7 years__. I've got professional technical skills and relevant industry knowledge. 
+I'm a __senior front-end developer__ with __7 years__ working experience in both __Financial Risk Management__ and __Artificial Intelligence__ area. Currently I'm working at [4Paradigm](https://www.4paradigm.com/), based at Shanghai China. Here I develop products...
 
-<!--I contribute my energy on __Artificial Intelligence__ related products, covering Business Solutions with AI (Intelligent Financial Credit Platform, Intelligent Recommandation H5 app), core AI product - Sage Platform (Sage Studio), AI productivity tools (OCR Labeling Platform) and etc. I'm serving as a full stack developer for Science and Technology division at [4Paradigm](https://www.4paradigm.com/) currently.-->
-
-<!--I previously worked in __Financial Risk Management__ area at CSTS a legal Finacial Tech vehicle of Citigroup.-->
-
-
-Currently I'm working at [4Paradigm](https://www.4paradigm.com/), contributing on AI related products, covering Financial Risk Solutions with AI (Intelligent Financial Credit Platform), core AI product - Sage Platform (Sage Studio), AI productivity tools (OCR Labeling Platform) and etc.
-
-## Education
+## 教育经历
 
 `2010-2014`
-__Dalian University of Technology__, Bachelor's Degree, Software Engineering
+__Dalian University of Technology__, Bachelor Degree on Software Engineering
 
 
-## Employment
+## 工作经历
 
 `Apr.2018-`
 __4Paradigm, Shanghai__, Front-end developer
 
-`2014-Apr.18`
-__Citigroup Services and Technology (China) Limited, Shanghai__, Web Developer
+`2014-2018`
+__Citigroup Services and Technology (China) Limited, Shanghai__, Software engineer
 
-## Technical skills
+## 技能
 
-* Javascript (incl. React, Redux, MST, ExtJs, ECharts)
-* HTML and CSS (incl. LESS, HTML5)
+* Javascript (incl. React, Redux, MobX, ExtJs, ECharts)
+* HTML and CSS
 * Webpack / Gulp
 * Git
-* Django
 
-## Areas of expertise
+## 擅长领域
 
-* AI Platform
-* WebIDE
-* Risk Management in FinTech
+* Software development
+* Web IDE
 
 
-## Projects
-### Ocr Labeling Platform
-`About`
-Online annotation and data validation tool. Allow pre-labelling by pre-trained predict model. Offers fast and handy annotation experience.
+## 项目经历
+### Ocr 标注平台
+`简介`
+在线标注和数据校验工具。Online annotation and data validation tool. Allow pre-labelling by pre-trained predict model. Offers fast and handy annotation experience.
 
-`Work`
+`职责`
 1) Design and implement the whole platform with react, MST, react-konva.
 
 2) Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
@@ -66,10 +57,10 @@ Online annotation and data validation tool. Allow pre-labelling by pre-trained p
 
 4) Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
 
-`Acheive.`
+`成绩`
 help scientists group to win a broad market opportunity.
 
-`Highlight`
+`亮点`
 react, react-konva, mobx
 ### Sage Studio
 
@@ -114,8 +105,8 @@ Optimize rendering performance of table with millions of data from 1 minute to 1
 ### Open Source Contribution
 ECharts PPMC contributor
 
-### Languages
-Mandarian, English - CET-6|TOEFL
+### Second Language
+English - CET-6, TOEFL
 
 <!-- ### Footer
 

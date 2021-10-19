@@ -1,13 +1,13 @@
 # md-cv
 
-A jekyll-based markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details. Forked from the (great) markdown CV of [elipapa](https://github.com/elipapa/markdown-cv).
+A jekyll-based markdown CV, which currently looks something like [this](liguanlin.netlify.app). Forked from the (great) markdown CV of [blm](http://blm.io/blog/markdown-academic-cv/).
 
 ### How to use
 
 To build, clone the repo and run jekyll:
 
 ```bash
-git clone git://github.com/blmoore/md-cv
+git clone git://github.com/gracelia/md-cv
 cd md-cv/
 jekyll serve
 ```
