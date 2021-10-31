@@ -3,32 +3,30 @@ layout: cv
 title: Guanlin Li's CV
 ---
 # <span class="title">李冠琳</span>
-有热情、有创造力的前端开发工程师
+资深前端开发工程师
 
 <div id="webaddress">
-<a href="mailto:darlyn@foxmail.com">darlyn@foxmail.com</a>
-|
-<i class="fa fa-github"></i> <a href="https://github.com/gracelia">gracelia</a>
+  <a href="mailto:darlyn@foxmail.com">darlyn@foxmail.com</a>
 </div>
 
 
 ## 关于我
 
-I'm a __senior front-end developer__ with __7 years__ working experience in both __Financial Risk Management__ and __Artificial Intelligence__ area. Currently I'm working at [4Paradigm](https://www.4paradigm.com/), based at Shanghai China. Here I develop products...
+在人工智能和金融风控行业工作 __7年__，主要从事 __前端研发__ 工作。目前在上海，就职于以“AI for everyone”为企业愿景，为企业提供人工智能与技术服务的创业公司 —— [第四范式](https://www.4paradigm.com/)。
+
+## 工作经历
+
+`2018.4-今`
+__第四范式，上海__，前端研发，全栈开发
+
+`2014.7-18.4`
+__花旗金融信息服务（中国）有限公司, 上海__，Internship，软件研发，前端研发
 
 ## 教育经历
 
 `2010-2014`
-__Dalian University of Technology__, Bachelor Degree on Software Engineering
+__大连理工大学__, 软件学院，学士学位。
 
-
-## 工作经历
-
-`Apr.2018-`
-__4Paradigm, Shanghai__, Front-end developer
-
-`2014-2018`
-__Citigroup Services and Technology (China) Limited, Shanghai__, Software engineer
 
 ## 技能
 
@@ -36,46 +34,56 @@ __Citigroup Services and Technology (China) Limited, Shanghai__, Software engine
 * HTML and CSS
 * Webpack / Gulp
 * Git
+* Django
+* Nginx / Tomcat
 
 ## 擅长领域
 
-* Software development
-* Web IDE
+* toB系统平台
+* WebIDE
+* 国际化
+* 
+
+
 
 
 ## 项目经历
-### Ocr 标注平台
+### Ocr智能标注平台
 `简介`
-在线标注和数据校验工具。Online annotation and data validation tool. Allow pre-labelling by pre-trained predict model. Offers fast and handy annotation experience.
+支持在线标注和数据校验的数据标注平台。结合预估服务提供快速文字识别，提升标注效率。同时支持配置预训练模型，提供智能预标功能。
+
+`技术栈`
+react，react-hooks，MST，react-konva，python，api-mocker
 
 `职责`
-1) Design and implement the whole platform with react, MST, react-konva.
+1) 结合react+MST+konva主导设计和实现标注工具
 
-2) Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
+2) 主导商业化产品团队升级ocr项目的系统架构。负责业务模块开发规范，业务之间解藕，数据管理重构。Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
 
-3) Improve developing efficiency and maintainability.Upgrade test mocker system to cover more cases and enhance integration test quality.
+3) 提升开发效率和可维护性。升级mocker以支持灵活多样的本地测试场景，提升联调质量；Improve developing efficiency and maintainability.Upgrade test mocker system to cover more cases and enhance integration test quality.
 
-4) Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
+4) 承担产品+UI+开发的角色，帮助科学家想清楚需求，并设计和实现。为科学家提供模型效果在线测试服务，识别模型和预训练模型等，以帮助科学家团队拓展市场机会Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
 
 `成绩`
-help scientists group to win a broad market opportunity.
+- 以1人／日工作量，将标注工具平滑嵌入到了商业化团队的ocr产品中，作为该团队ocr商业化项目的底层核心生产工具。
+- 对接2条前端BU线，输出高质量算法能力，助力外部合作。
 
 `亮点`
-react, react-konva, mobx
-### Sage Studio
+架构设计；项目推广落地；面向对象思想实践，数据驱动页面开发；
+### 先知平台（Studio）
 
-Machine Learning platform as a complex constructed project combined with Data Center, Model IDE, Application IDE, Model Management, Application Management, Authentic Management modules and etc.
+公司核心AI平台，集成了数据中心，建模IDE，应用IDE，模型管理，应用管理，权限管理等的大型复杂项目
 
-1) Developed main features in model IDE of Sage Studio from version 3.5 to 3.9
-Implement core function — explainable model with ECharts.
+1) 负责先知studio项目3.5-3.9建模IDE功能开发
+使用Echarts完成核心功能模型可解释。
 
-2) Participate in reconstruction of monorepo. Reduce complexity and improve release efficiency for large project combined with 15+ repos.
+2) 参与monorepo工程改造，降低前端工程复杂度，提升大型项目上线效率。
 
-3) Resolve the pain point from user’s feedback like optimize the performance of DAG, make an improvement on DAG updating performance. DAG with more than 1000 nodes could finish updating from 1 minute to 10 seconds.
+3) 解决用户反馈的使用痛点，如有向无环图的性能优化，对于中1000个节点状态更新从1分提升至10秒。
 
-4) Coordinate and participate in Sage product internationalization reconstruction with cross-team members.
+4) 跨部门合作，协调先知平台国际化改造工作。.
 
-### Credit Risk Management
+### 智能信贷风控系统
 
 Intelligent credit risk management platform with Decision Engine, Approve Management，Score Card，Back/White name-list，Data report，System/Permission Management
 
@@ -101,12 +109,12 @@ Optimize rendering performance of table with millions of data from 1 minute to 1
 4) Go through requirement with global co-workers.
 
 
-## Other
-### Open Source Contribution
+## 其他
+### 社区贡献
 ECharts PPMC contributor
 
-### Second Language
-English - CET-6, TOEFL
+### 第二语言
+英语 - CET-6, TOEFL
 
 <!-- ### Footer
 

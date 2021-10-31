@@ -23,12 +23,6 @@ I'm a __senior web developer__ served at both inland and overseas companys in __
 
 Currently I'm working at [4Paradigm](https://www.4paradigm.com/), contributing on AI related products, covering Financial Risk Solutions with AI (Intelligent Financial Credit Platform), core AI product - Sage Platform (Sage Studio), AI productivity tools (OCR Labeling Platform) and etc.
 
-## Education
-
-`2010-2014`
-__Dalian University of Technology__, Bachelor's Degree, Software Engineering
-
-
 ## Employment
 
 `Apr.2018-`
@@ -36,6 +30,11 @@ __4Paradigm, Shanghai__, Front-end developer
 
 `2014-Apr.18`
 __Citigroup Services and Technology (China) Limited, Shanghai__, Web Developer
+
+## Education
+
+`2010-2014`
+__Dalian University of Technology__, Bachelor's Degree, Software Engineering
 
 ## Technical skills
 
@@ -54,10 +53,16 @@ __Citigroup Services and Technology (China) Limited, Shanghai__, Web Developer
 
 ## Projects
 ### Ocr Labeling Platform
-`About`
-Online annotation and data validation tool. Allow pre-labelling by pre-trained predict model. Offers fast and handy annotation experience.
+`Descrip.`
+Online annotation and data validation tool. Auto label by pre-trained predict model. Offers fast and handy annotation experience.
 
-`Work`
+`Duty`
+<!--
+technical stack
+main work
+role
+problem, and how to solve
+-->
 1) Design and implement the whole platform with react, MST, react-konva.
 
 2) Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
