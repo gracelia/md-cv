@@ -8,8 +8,8 @@ To build, clone the repo and run jekyll:
 
 ```bash
 git clone git://github.com/gracelia/md-cv
-cd md-cv/
-jekyll serve
+cd md cv/
+bundle exec jekyll serve
 ```
 (You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)
 
