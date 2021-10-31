@@ -39,30 +39,41 @@ __大连理工大学__, 软件学院，学士学位。
 
 ## 擅长领域
 
-* toB系统平台
+* B端平台
 * WebIDE
-* 国际化
-* 
-
-
-
 
 ## 项目经历
-### Ocr智能标注平台
+<!-- ### 套餐推荐
 `简介`
-支持在线标注和数据校验的数据标注平台。结合预估服务提供快速文字识别，提升标注效率。同时支持配置预训练模型，提供智能预标功能。
+结合推荐和图像识别技术为餐饮企业提供个性化的套餐组合和推荐方案，帮助客户提升线上订餐客单率。前端包括图片滑动组合、裸眼3d和3d模型等效果。
 
 `技术栈`
-react，react-hooks，MST，react-konva，python，api-mocker
+h5, 微前端, three.js
 
 `职责`
-1) 结合react+MST+konva主导设计和实现标注工具
+1) 移动端脚手架？结合react+MST+konva主导设计和实现标注工具
 
-2) 主导商业化产品团队升级ocr项目的系统架构。负责业务模块开发规范，业务之间解藕，数据管理重构。Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
+2) 主导商业化产品团队升级ocr项目的系统架构。负责业务模块开发规范，业务之间解藕，数据管理重构。
 
-3) 提升开发效率和可维护性。升级mocker以支持灵活多样的本地测试场景，提升联调质量；Improve developing efficiency and maintainability.Upgrade test mocker system to cover more cases and enhance integration test quality.
+`亮点`
+h5开发
+-->
 
-4) 承担产品+UI+开发的角色，帮助科学家想清楚需求，并设计和实现。为科学家提供模型效果在线测试服务，识别模型和预训练模型等，以帮助科学家团队拓展市场机会Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
+### Ocr智能标注平台
+`简介`
+为文字识别设计的数据标注平台，包括数据管理、在线标注、数据校验等功能，支持结构化模型训练场景的数据准备。标注模块结合预估服务提供快速文字识别，提升标注效率，同时支持配置预训练模型，提供智能预标功能。
+
+`技术栈`
+react, react-hooks, MST, react-konva, gitsubmodule, yarnworkspace, django, api-mocker
+
+`职责`
+1) 担任全栈开发的角色。帮助科学家梳理需求，以及UI/UE设计，前端及部分后端服务的开发。
+
+2) 复杂组件开发。结合 <em>react+MST+react-konva</em> 和 <em>O2O</em> 思想，开发包括图片缩放、旋转、矩形/多边形标注框绘制等功能的标注工具。
+
+3) 工程化改造。mocker升级，提高测试用例多样性，提升联调质量。实现 <em>monorepo</em>，降低多仓库构建成本，提升开发效率和可维护性。
+
+4) 系统设计。设计平台整体架构，帮助商业化OCR产品
 
 `成绩`
 - 以1人／日工作量，将标注工具平滑嵌入到了商业化团队的ocr产品中，作为该团队ocr商业化项目的底层核心生产工具。
