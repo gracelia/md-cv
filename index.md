@@ -21,7 +21,7 @@ I'm a __senior web developer__ served at both inland and overseas companys in __
 <!--I previously worked in __Financial Risk Management__ area at CSTS a legal Finacial Tech vehicle of Citigroup.-->
 
 
-Currently I'm working at [4Paradigm](https://www.4paradigm.com/), contributing on AI related products, covering Financial Risk Solutions with AI (Intelligent Financial Credit Platform), core AI product - Sage Platform (Sage Studio), AI productivity tools (OCR Labeling Platform) and etc.
+Currently I'm working at [4Paradigm](https://www.4paradigm.com/), aimed at providing AI technology and helping companies for intelligent transformation to acheive the wish of <em>AI for everyone</em>.
 
 ## Employment
 
@@ -71,11 +71,9 @@ problem, and how to solve
 
 4) Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
 
-`Acheive.`
-help scientists group to win a broad market opportunity.
-
-`Highlight`
+`Tech`
 react, react-konva, mobx
+
 ### Sage Studio
 
 Machine Learning platform as a complex constructed project combined with Data Center, Model IDE, Application IDE, Model Management, Application Management, Authentic Management modules and etc.
@@ -112,7 +110,7 @@ Provides millions of data like risk factors and scenarios for global downstream 
 3) Package customized component that enabled intelligent search adjust multiple scenarios
 Optimize rendering performance of table with millions of data from 1 minute to 1 second.
 
-4) Go through requirement with global co-workers.
+4) Agile development and peer programming. Give sessions for global co-workers.
 
 
 ## Other
