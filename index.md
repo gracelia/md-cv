@@ -54,7 +54,7 @@ __Dalian University of Technology__, Bachelor's Degree, Software Engineering
 ## Projects
 ### Ocr Labeling Platform
 `Descrip.`
-Online annotation and data validation tool. Auto label by pre-trained predict model. Offers fast and handy annotation experience.
+Online data management, annotation and data validation tool. Designed for structured model training. Offers fast and handy annotation experience with nn-predictor and pre-labeling by pre-trained model.
 
 `Duty`
 <!--
@@ -63,16 +63,26 @@ main work
 role
 problem, and how to solve
 -->
-1) Design and implement the whole platform with react, MST, react-konva.
+1) Play a role as a fullstack developer. Responsible for comunicating requirements, UI/UE, frontend development and part of backend developing.
 
-2) Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
+2) Developed complex component with image zooming, rotation, rect/polygon annotation functions. Easy to be abstracted for third part usage. Using <em>react, MST, react-konva</em> and practice with thought of <em>O2O</em>.
+
+3) En
+
+2) 复杂组件开发。结合 <em>react+MST+react-konva</em> 和 <em>O2O</em> 思想，开发包括图片缩放、旋转、矩形/多边形标注框绘制等功能的标注工具。抽象简单灵活的接口，可被第三方项目依赖和使用。
+
+3) 工程化改造。mocker升级，提高测试用例多样性，提升联调质量。实现 <em>monorepo</em>，降低多仓库构建成本，提升开发效率和可维护性。
+
+4) 系统设计。设计平台整体架构，标注组件输出到商业化产品团队，并帮助商业化OCR产品进行系统重构，帮助制定开发规范和模块扩展规范。
+
+Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
 
 3) Improve developing efficiency and maintainability.Upgrade test mocker system to cover more cases and enhance integration test quality.
 
 4) Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
 
 `Tech`
-react, react-konva, mobx
+react, react-hooks, MST, react-konva, gitsubmodule, yarnworkspace, django, api-mocker
 
 ### Sage Studio
 
@@ -110,7 +120,7 @@ Provides millions of data like risk factors and scenarios for global downstream 
 3) Package customized component that enabled intelligent search adjust multiple scenarios
 Optimize rendering performance of table with millions of data from 1 minute to 1 second.
 
-4) Agile development and peer programming. Give sessions for global co-workers.
+4) Agile manner and peer programming. Give sessions for global co-workers.
 
 
 ## Other

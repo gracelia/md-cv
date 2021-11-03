@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 30%;
-	/* margin-bottom: 0.2em; */
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
 }
@@ -73,12 +73,12 @@ code {
 	font: normal normal;
 	font-size: 70%;
 	font-family: Menlo, monospace, sans-serif;
-	color: #444;
+	color: #777;
 }
 
 p code {
 	position: absolute;
-	left: -12%;
+	left: -11%;
 }
 
 
@@ -154,7 +154,7 @@ h2 {
 	position: relative;
 	top: 1.5em;
 	text-align: right;
-	width: 18%;
+	width: 17%;
 }
 
 h3 {
