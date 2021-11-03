@@ -21,13 +21,7 @@ I'm a __senior web developer__ served at both inland and overseas companys in __
 <!--I previously worked in __Financial Risk Management__ area at CSTS a legal Finacial Tech vehicle of Citigroup.-->
 
 
-Currently I'm working at [4Paradigm](https://www.4paradigm.com/), contributing on AI related products, covering Financial Risk Solutions with AI (Intelligent Financial Credit Platform), core AI product - Sage Platform (Sage Studio), AI productivity tools (OCR Labeling Platform) and etc.
-
-## Education
-
-`2010-2014`
-__Dalian University of Technology__, Bachelor's Degree, Software Engineering
-
+Currently I'm working at [4Paradigm](https://www.4paradigm.com/), aimed at providing AI technology and helping companies for intelligent transformation to acheive the wish of <em>AI for everyone</em>.
 
 ## Employment
 
@@ -36,6 +30,11 @@ __4Paradigm, Shanghai__, Front-end developer
 
 `2014-Apr.18`
 __Citigroup Services and Technology (China) Limited, Shanghai__, Web Developer
+
+## Education
+
+`2010-2014`
+__Dalian University of Technology__, Bachelor's Degree, Software Engineering
 
 ## Technical skills
 
@@ -54,10 +53,16 @@ __Citigroup Services and Technology (China) Limited, Shanghai__, Web Developer
 
 ## Projects
 ### Ocr Labeling Platform
-`About`
-Online annotation and data validation tool. Allow pre-labelling by pre-trained predict model. Offers fast and handy annotation experience.
+`Descrip.`
+Online annotation and data validation tool. Auto label by pre-trained predict model. Offers fast and handy annotation experience.
 
-`Work`
+`Duty`
+<!--
+technical stack
+main work
+role
+problem, and how to solve
+-->
 1) Design and implement the whole platform with react, MST, react-konva.
 
 2) Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
@@ -66,11 +71,9 @@ Online annotation and data validation tool. Allow pre-labelling by pre-trained p
 
 4) Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
 
-`Acheive.`
-help scientists group to win a broad market opportunity.
-
-`Highlight`
+`Tech`
 react, react-konva, mobx
+
 ### Sage Studio
 
 Machine Learning platform as a complex constructed project combined with Data Center, Model IDE, Application IDE, Model Management, Application Management, Authentic Management modules and etc.
@@ -107,7 +110,7 @@ Provides millions of data like risk factors and scenarios for global downstream 
 3) Package customized component that enabled intelligent search adjust multiple scenarios
 Optimize rendering performance of table with millions of data from 1 minute to 1 second.
 
-4) Go through requirement with global co-workers.
+4) Agile development and peer programming. Give sessions for global co-workers.
 
 
 ## Other

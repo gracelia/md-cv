@@ -13,6 +13,13 @@ title: Guanlin Li's CV
 ## 关于我
 
 在人工智能和金融风控行业工作 __7年__，主要从事 __前端研发__ 工作。目前在上海，就职于以“AI for everyone”为企业愿景，为企业提供人工智能与技术服务的创业公司 —— [第四范式](https://www.4paradigm.com/)。
+<!-- 我的成长经历中和追求“美”这件事息息相关，毕业至今，
+Beauty Lab
+前端技术让自己可以在数字世界中变成魔法师，持续创造与「美」相关的一切。
+
+「美」是个极具奥义的概念，不像文字，可以直接的表达，
+在创造「美」的这个过程里，世界里，
+-->
 
 ## 工作经历
 
@@ -39,7 +46,7 @@ __大连理工大学__, 软件学院，学士学位。
 
 ## 擅长领域
 
-* B端平台
+* AI平台, B端系统
 * WebIDE
 
 ## 项目经历
@@ -69,55 +76,63 @@ react, react-hooks, MST, react-konva, gitsubmodule, yarnworkspace, django, api-m
 `职责`
 1) 担任全栈开发的角色。帮助科学家梳理需求，以及UI/UE设计，前端及部分后端服务的开发。
 
-2) 复杂组件开发。结合 <em>react+MST+react-konva</em> 和 <em>O2O</em> 思想，开发包括图片缩放、旋转、矩形/多边形标注框绘制等功能的标注工具。
+2) 复杂组件开发。结合 <em>react+MST+react-konva</em> 和 <em>O2O</em> 思想，开发包括图片缩放、旋转、矩形/多边形标注框绘制等功能的标注工具。抽象简单灵活的接口，可被第三方项目依赖和使用。
 
 3) 工程化改造。mocker升级，提高测试用例多样性，提升联调质量。实现 <em>monorepo</em>，降低多仓库构建成本，提升开发效率和可维护性。
 
-4) 系统设计。设计平台整体架构，帮助商业化OCR产品
+4) 系统设计。设计平台整体架构，标注组件输出到商业化产品团队，并帮助商业化OCR产品进行系统重构，帮助制定开发规范和模块扩展规范。
 
-`成绩`
-- 以1人／日工作量，将标注工具平滑嵌入到了商业化团队的ocr产品中，作为该团队ocr商业化项目的底层核心生产工具。
-- 对接2条前端BU线，输出高质量算法能力，助力外部合作。
 
-`亮点`
-架构设计；项目推广落地；面向对象思想实践，数据驱动页面开发；
 ### 先知平台（Studio）
 
 公司核心AI平台，集成了数据中心，建模IDE，应用IDE，模型管理，应用管理，权限管理等的大型复杂项目
+<!--
+产品角度：
+-->
 
-1) 负责先知studio项目3.5-3.9建模IDE功能开发
-使用Echarts完成核心功能模型可解释。
+`技术栈`
+react, redux, redux-saga, webpack, ECharts 
 
-2) 参与monorepo工程改造，降低前端工程复杂度，提升大型项目上线效率。
+`职责`
+1) 负责建模IDE项目日常功能开发，包括算子平台、模型可解释、DAG图等。
 
-3) 解决用户反馈的使用痛点，如有向无环图的性能优化，对于中1000个节点状态更新从1分提升至10秒。
+2) 对由16个子项目组成的大型复杂项目进行monorepo工程改造，解决发包频繁、项目间联调困难，上线效率低等问题。
 
-4) 跨部门合作，协调先知平台国际化改造工作。.
+3) 解决用户反馈的使用痛点，如有向无环图的 <em>性能优化</em>，对于中1000个节点状态更新从1分提升至10秒。
+
+4) 参与项目国际化改造，跨部门合作，协调先知平台国际化改造工作。
 
 ### 智能信贷风控系统
 
-Intelligent credit risk management platform with Decision Engine, Approve Management，Score Card，Back/White name-list，Data report，System/Permission Management
+AI智能消费信贷系统，以贷前风险控制为主要目标而设计，包括智能信贷审批、反欺诈决策引擎、评分卡、黑白名单、数据报表、权限管理等功能。
 
-1) Work on credit risk decision engine, approval management, score card, name-list, data report modules.
+`技术栈`
+react, webpack, ECharts, eslint
 
-2) Develop common component like standardized data list adapts varies requirement scenarios that saved 2 days of work for each person.
+`职责`
+1) 完成项目从0到1的搭建，包括前后端分离体系，制定代码开发规范、格式化规范，搭建自动代码检查机制。
 
-3) Complex component developing, including decision-rule-tree.
+2) 复杂组件开发，包括决策树，决策流等。
 
-4) Start up project from 0 to 1, including construct basic structure, set up mock system and standardize API
+3) 公共组件开发，可复用的表单组件有效降低2人/日工作时间。
+
+4) 制定接口规范，排期制度。
 
 ### Scenario Manager
 
-Provides millions of data like risk factors and scenarios for global downstream users from market, retail, commercial, collateral risk management teams and supports risk governance event from both inner and outer financial supervisory board.
+风险场景管理平台，包含千万级风险因子及场景数据，为市场、零售、商业、抵押品风险以及内外金融监管部门提供最上游的数据支持和服务。
 
-1) Develop scenario library, risk factor management with millions of data.
+`技术栈`
+ExtJs4-6, ext-cli, ant, tomcat, svn
 
-2) Refactor architecture, upgrade framework and customize theme
+`职责`
+1) 负责万数量级数据列表的开发和性能提升。
 
-3) Package customized component that enabled intelligent search adjust multiple scenarios
-Optimize rendering performance of table with millions of data from 1 minute to 1 second.
+2) 完成系统架构升级和重构，公司定制化主题开发和改造。
 
-4) Go through requirement with global co-workers.
+3) 组件插件开发，支持时序性数据按列搜索功能。
+
+4) 敏捷开发、结对编程。给美国同事做前端分享。
 
 
 ## 其他
