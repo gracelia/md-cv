@@ -53,10 +53,8 @@ __Dalian University of Technology__, Bachelor's Degree, Software Engineering
 
 ## Projects
 ### Ocr Labeling Platform
-`Descrip.`
 Online data management, annotation and data validation tool. Designed for structured model training. Offers fast and handy annotation experience with nn-predictor and pre-labeling by pre-trained model.
 
-`Duty`
 <!--
 technical stack
 main work
