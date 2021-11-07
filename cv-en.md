@@ -112,7 +112,7 @@ Provides millions of data like risk factors and scenarios for global downstream 
 
 4) Agile manner and peer programming. Give sessions for global co-workers.
 
-`技术栈`
+`Tech`
 ExtJs4-6, ext-cli, ant, tomcat, svn
 
 ## Other
