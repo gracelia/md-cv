@@ -63,51 +63,44 @@ main work
 role
 problem, and how to solve
 -->
-1) Play a role as a fullstack developer. Responsible for comunicating requirements, UI/UE, frontend development and part of backend developing.
+1) Play a role as a fullstack developer. Responsible for comunicating requirements, UI/UE, frontend development and part of backend work.
 
 2) Developed complex component with image zooming, rotation, rect/polygon annotation functions. Easy to be abstracted for third part usage. Using <em>react, MST, react-konva</em> and practice with thought of <em>O2O</em>.
 
-3) En
+3) Improve developing efficiency and maintainability.Upgrade mocker to cover more cases and enhance quality of integration test .
 
-2) 复杂组件开发。结合 <em>react+MST+react-konva</em> 和 <em>O2O</em> 思想，开发包括图片缩放、旋转、矩形/多边形标注框绘制等功能的标注工具。抽象简单灵活的接口，可被第三方项目依赖和使用。
-
-3) 工程化改造。mocker升级，提高测试用例多样性，提升联调质量。实现 <em>monorepo</em>，降低多仓库构建成本，提升开发效率和可维护性。
-
-4) 系统设计。设计平台整体架构，标注组件输出到商业化产品团队，并帮助商业化OCR产品进行系统重构，帮助制定开发规范和模块扩展规范。
-
-Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Establish module development standard, isolate modules and split business logic, work on code refactor and make cleaner codes.
-
-3) Improve developing efficiency and maintainability.Upgrade test mocker system to cover more cases and enhance integration test quality.
-
-4) Act as a product manager, an UI designer and also a front-end developer. Help data-scientists figure out and realize what they really need. Provide model test service for initial customers, including predict model, pertain models to help scientists group to win a broad market opportunity.
+4) Architecture desgin. Lead business product team to upgrade and enhance the front-end architecture of commercialized OCR system. Help to establish module development standard, isolate modules to make extendable and cleaner code.
 
 `Tech`
 react, react-hooks, MST, react-konva, gitsubmodule, yarnworkspace, django, api-mocker
 
 ### Sage Studio
 
-Machine Learning platform as a complex constructed project combined with Data Center, Model IDE, Application IDE, Model Management, Application Management, Authentic Management modules and etc.
+Core AI platform. Combined with Data Center, Model IDE, Application IDE, Model Management, Application Management, Authentic Management modules and etc.
 
-1) Developed main features in model IDE of Sage Studio from version 3.5 to 3.9
-Implement core function — explainable model with ECharts.
+1) Mainly in responsible of model IDE development. Including operator platform, explainable model, DAG and etc.
 
-2) Participate in reconstruction of monorepo. Reduce complexity and improve release efficiency for large project combined with 15+ repos.
+2) Maintain large scale project with 16 plus subrepos. Participate in project reconstruction with <em>monorepo</em>. Reduce package publish frequency and improve efficiency of production release.
 
-3) Resolve the pain point from user’s feedback like optimize the performance of DAG, make an improvement on DAG updating performance. DAG with more than 1000 nodes could finish updating from 1 minute to 10 seconds.
+3) Resolve the pain point from user’s feedback. Optimize the performance of DAG. Accelerate DAG usual update performance with more than 1000 nodes from 1 minute to 10 seconds.
 
-4) Coordinate and participate in Sage product internationalization reconstruction with cross-team members.
+4) Coordinate and participate in Sage production <em>internationalization</em> with cross-team members.
+
+`Tech`
+react, redux, redux-saga, webpack, ECharts
 
 ### Credit Risk Management
 
-Intelligent credit risk management platform with Decision Engine, Approve Management，Score Card，Back/White name-list，Data report，System/Permission Management
+Intelligent credit risk management platform. Designed for pre-credit risk management. Consists of decision engine, approve management，score card，back/white name-list，data report，system/permission management.
 
-1) Work on credit risk decision engine, approval management, score card, name-list, data report modules.
+1) Work on project start up from zero to one. Including front end speration with help of mock system, js/css modulization with es6, standardize coding with eslint.
 
-2) Develop common component like standardized data list adapts varies requirement scenarios that saved 2 days of work for each person.
+2) Complex component development like decision tree and decision flow.
 
-3) Complex component developing, including decision-rule-tree.
+3) Common component development. Worked out reusuable data list adapts varies requirement scenarios could reduce 2 days work each person.
 
-4) Start up project from 0 to 1, including construct basic structure, set up mock system and standardize API
+`Tech`
+react, webpack, ECharts, eslint
 
 ### Scenario Manager
 
@@ -117,11 +110,12 @@ Provides millions of data like risk factors and scenarios for global downstream 
 
 2) Refactor architecture, upgrade framework and customize theme
 
-3) Package customized component that enabled intelligent search adjust multiple scenarios
-Optimize rendering performance of table with millions of data from 1 minute to 1 second.
+3) Grid component plugin development. Support search of time series data by column.
 
 4) Agile manner and peer programming. Give sessions for global co-workers.
 
+`技术栈`
+ExtJs4-6, ext-cli, ant, tomcat, svn
 
 ## Other
 ### Open Source Contribution
