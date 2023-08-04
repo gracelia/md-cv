@@ -64,6 +64,7 @@ React，Plasmo
 ### Enigma（大语言模型产品）
 `数研院 2023.03`
 底层接入ChatGPT和自研大语言模型，能够提供行业知识问答，工具调用，调用搜索引擎以及完成机器人调度等。主要面向军工、传统行业、医疗行业、RPA领域提供可落地的解决方案探索。
+
 `技术栈`
 React，Webpack, ChatUI, Sse，WebSocket，Docker
 
@@ -80,6 +81,7 @@ React，Webpack, ChatUI, Sse，WebSocket，Docker
 ### AI中台
 `数研院 2022.11`
 是一套用来构建大规模智能服务的基础设施，意在构建人工智能模型全生命周期管理和服务体系。前期帮助内部算法工程师提升模型训练效率和资源利用率，帮助公司降低资源浪费。后期对外开放私有化部署，帮助服务企业快速构建智能服务的基础设施。
+
 `技术栈`
 React，AntD5, Webpack，Grafana, Docker
 
