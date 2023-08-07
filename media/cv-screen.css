@@ -200,6 +200,10 @@ strong {
 	font-weight: bold;
 }
 
+ins {
+	text-decoration:underline;
+}
+
 #address {
 	display: none;
 }
