@@ -63,17 +63,17 @@ React，Plasmo
 
 ### Enigma（大语言模型产品）
 `数研院 03/23`
-底层接入ChatGPT和自研大语言模型，能够提供行业知识问答，工具调用，调用搜索引擎以及完成机器人调度等的<strong>大语言模型产品</strong>。主要面向军工、传统行业、医疗行业、RPA领域提供可落地的解决方案探索。
+底层接入ChatGPT和自研大语言模型，能够提供<strong>行业知识问答</strong>，<strong>工具调用</strong>，<strong>搜索引擎调用</strong>以及完成<strong>机器人调度</strong>等。主要面向军工、传统行业、医疗行业、RPA领域提供可落地的解决方案探索。
 
 `技术栈`
 React，Webpack, ChatUI, Sse，WebSocket，Docker
 
 `职责`
-1) 主导大语言模型问答产品前端研发工作，整体架构设计，技术选型。
+1) 主导<strong>大语言模型问答</strong>产品前端研发工作，整体架构设计，技术选型。
 
 2）完成产品功能开发，包括行业GPT、调用工具、生成游戏场景、调用搜索、调用机器人；<strong>主题样式切换</strong>。
 
-3) 前端<strong>CICD</strong>，<strong>自动化部署</strong>。
+3) 前端<strong>自动化构建、部署</strong>，CICD。
 
 `业绩`
 融资路演的核心产品
@@ -86,7 +86,7 @@ React，Webpack, ChatUI, Sse，WebSocket，Docker
 React，AntD5, Webpack，Grafana, Docker
 
 `职责`
-1) 中台前端项目owner，完成<strong>技术选型、系统架构、制定代码规范和代码检查</strong>。
+1) 中台前端项目owner，完成<strong>技术选型</strong>、<strong>系统架构</strong>、制定<strong>代码规范</strong>和<strong>代码检查</strong>。
    
 2) 完成核心功能开发，如用户/项目管理，数据存储，模型调试和训练（Notebook、Job）、服务部署、服务器资源监控。
    
@@ -102,12 +102,12 @@ React，AntD5, Webpack，Grafana, Docker
 React，React-Hooks，Webpack，ECharts，Docker，dumi
 
 `职责`
-1) 基于原生方法搭建前端脚手架，通用开发模式：基础业务逻辑分层（权限、业务模块划分），模块分层，配置扩展，数据mock，公共模块，请求发送层，数据层和页面层。
+1) 基于<strong>原生方法</strong>搭建前端脚手架，封装<strong>通用开发模式</strong>：基础业务逻辑分层（权限、业务模块划分），模块分层，配置扩展，数据mock，公共模块，请求发送层，数据层和页面层。
    
 2) 搭建前端组件库，复杂组件积累和沉淀。脚手架的推广和使用。
 
 `业绩`
-完成4个项目的快速搭建；统一开发范式同一业务场景开发效率提升50%。
+完成<strong>4个项目</strong>的快速搭建；统一开发范式同一业务场景<strong>开发效率提升50%</strong>。
 
 ### 运筹调度、能源、供暖解决方案
 `数研院 06/22 `
@@ -117,17 +117,17 @@ React，React-Hooks，Webpack，ECharts，Docker，dumi
 React，Webpack，ECharts，Docker
 
 `职责`
-1) 两个项目owner，负责从0-1搭建和功能研发。与交互、产品、算法、项目经理、研发协作沟通，对齐明确需求及交付边界，保证交付质量。
+1) 两个项目owner，负责从0-1搭建和功能研发。与交互、产品、算法、项目经理、研发<strong>协作沟通</strong>，对齐明确需求及交付边界，<strong>保证交付质量</strong>。
    
 2) 使用ECharts完成大数据量下最短路径问题的<strong>数据可视化</strong>展示；供热管网可视化展示；
 
 `业绩`
-运筹方向解决方案项目成功交付并作为公司第一个营收案例；行业know-how；
+运筹方向解决方案项目成功交付并作为公司<strong>第一个营收案例</strong>；行业know-how；
 
 ### OCR智能标注平台、开放平台
 `第四范式`
-<p> <strong>标注平台</strong>u> 是一套OCR领域的人在环路系统，包括数据标注、预训练、对模型结果进行在线数据反馈和校准，完成整个模型训练和模型迭代的闭环。</p>
-<p> <strong>开放平台</strong>u> 提供对外算法能力展示和在线训练。</p>
+<p> <strong>标注平台</strong> 是一套OCR领域的人在环路系统，包括数据标注、预训练、对模型结果进行在线数据反馈和校准，完成整个模型训练和模型迭代的闭环。</p>
+<p> <strong>开放平台</strong> 提供对外算法能力展示和在线训练。</p>
 
 `技术栈`
 React，React-Hooks，MST，React-Konva，Python，Api-Mocker
@@ -139,7 +139,7 @@ React，React-Hooks，MST，React-Konva，Python，Api-Mocker
    
 3) <strong>跨团队合作</strong>，负责推进标注平台与商业化团队ocr项目融合落地。
    
-4) 负责商业化项目工程化改造，业务模块层级规范、编码规范、联调工具改造；
+4) 主导<strong>商业化项目</strong>工程化改造，业务模块层级规范、编码规范、联调工具改造；
 
 
 `业绩`
@@ -155,12 +155,12 @@ React，Redux，React-Hooks，Webpack，Yarn Workspace，Git Submodule，ECharts
 `职责`
 1) 主要负责<strong>建模IDE</strong>的开发和需求迭代，功能如算子平台、SolutionPath、模型可视化、DAG图等。
    
-2) 平台工程改造，使用 <strong>monorepo</strong> 方案，解决IDE产品插件化和公共模块在多项目中嵌入导致上线流程慢、需要多个团队沟通做依赖升级，效率低且容易出错的问题。
+2) 平台<strong>工程改造</strong>，使用 <strong>Monorepo</strong> 方案，解决IDE产品插件化和公共模块在多项目中嵌入导致上线流程慢、需要多个团队沟通做依赖升级，效率低且容易出错的问题。
    
 3) 解决<strong>技术难点</strong>，如解决图问题中大量节点状态更新产生的性能瓶颈。
 
 `业绩`
-获得百胜好评，获得范式年度特别奖；提升工程效率；大型复杂项目协作。
+获得百胜好评，获得范式年度特别奖；
 
 ### 套餐推荐
 `第四范式`
@@ -195,16 +195,16 @@ React，Webpack, ECharts，ESlint
 
 ### Scenario Manager
 `花旗`
-集成全球多国家、多业务部门风险场景、风险因子的历史时序数据，同时包括风险场景数据的推理预测、版本管理、审批等功能的<strong>金融风险</strong>大数据管理平台。
+集成全球多国家、多业务部门风险场景、风险因子的历史时序数据，同时包括风险场景数据的推理预测、版本管理、审批等功能的<strong>金融大数据管理</strong>平台。
 内外金融监管部门提供最上游的数据支持和服务。
 
 `技术栈`
 Extjs4-6，Ext-Cli，Ant,tomcat,Svn
 
 `职责`
-1) 完成系统架构升级和重构，公司定制化主题开发和改造。
+1) 完成系统<strong>架构升级</strong>和重构，mvc到mvvm重构。
    
-2) 技术升级，mvc到mvvm重构，系统主题升级和支持自定义。
+2) 公司<strong>主题定制化</strong>开发和改造
    
 3) 组件插件开发，支持时序性数据按列搜索功能；复杂组件优化，列表单渲染速度提升10倍。
    
