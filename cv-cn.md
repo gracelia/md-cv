@@ -3,7 +3,7 @@ layout: cv
 title: Guanlin Li's CV
 ---
 # <span class="title">李冠琳</span>
-资深前端开发工程师
+高级前端开发工程师
 
 <div id="webaddress">
   <a href="mailto:darlyn@foxmail.com">darlyn@foxmail.com</a>
