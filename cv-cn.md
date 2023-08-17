@@ -109,7 +109,7 @@ React，React-Hooks，Webpack，ECharts，Docker，dumi
 `业绩`
 完成<strong>4个项目</strong>的快速搭建；统一开发范式同一业务场景<strong>开发效率提升50%</strong>。
 
-### 运筹调度、能源、供暖解决方案
+### 运筹、能源、供暖解决方案
 `数研院 06/22 `
 <strong>行业解决方案</strong>项目，包括完整的基本的用户管理功能以及针对运筹、能源行业的定制化功能。
 
