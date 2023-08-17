@@ -102,7 +102,7 @@ React，AntD5, Webpack，Grafana, Docker
 React，React-Hooks，Webpack，ECharts，Docker，dumi
 
 `职责`
-1) 基于<strong>原生方法</strong>搭建前端脚手架，封装<strong>通用开发模式</strong>：基础业务逻辑分层（权限、业务模块划分），模块分层，配置扩展，数据mock，公共模块，请求发送层，数据层和页面层。
+1) 搭建前端脚手架，封装<strong>通用开发模式</strong>：基础业务逻辑分层（权限、业务模块划分），模块分层，配置扩展，数据mock，公共模块，请求发送层，数据层和页面层。
    
 2) 搭建前端组件库，复杂组件积累和沉淀。脚手架的推广和使用。
 
